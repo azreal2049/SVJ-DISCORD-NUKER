@@ -1,10 +1,10 @@
 @echo off
 setlocal enabledelayedexpansion
-title Void-Tools Setup
+title NUKER Setup
 color 0c
 
 echo.
-echo  ^<^<^< VOID-TOOLS SETUP ^>^>^>
+echo  ^<^<^< NUKER SETUP ^>^>^>
 echo  ================================
 echo.
 
