@@ -14,8 +14,8 @@
 
 ```
 1 — python_installer.bat     checks Python
-2 — setup.bat                installs dependencies
-3 — start.bat                launches the CLI
+2 — run the main exe         opens main tool  
+
 ```
 
 > Your bot must be invited to the server with the permissions required for the actions you run.
