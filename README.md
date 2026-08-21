@@ -46,7 +46,7 @@ Enable these in the [Discord Developer Portal](https://discord.com/developers/ap
 |:---:|--------|
 | `n` | Next page |
 | `b` | Previous page |
-| `01` – `39` | Run a command |
+| `01` – `35` | Run a command |
 | `q` | Quit |
 
 <br>
@@ -60,7 +60,7 @@ Enable these in the [Discord Developer Portal](https://discord.com/developers/ap
 | **1** | Server structure — channels, roles, categories, server settings, member nicknames |
 | **2** | Moderation & utilities — messaging, webhooks, VC tools, server info, clone/backup helpers |
 
-39 numbered commands available in-app. Full list is shown inside the terminal UI.
+35 numbered commands available in-app. Full list is shown inside the terminal UI.
 
 <br>
 
