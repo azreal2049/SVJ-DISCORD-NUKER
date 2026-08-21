@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # SVJ-DISCORD-NUKER
 =======
->>>>>>> 98dedb4 (initial release: SVJ-NUKER v1.0.0)
 ## 🖥️ Overview
 
 **SVJ-NUKER** is a Python CLI for **Discord server administration** — channel & role management, member tools, server info, and moderation helpers through a Rich terminal interface.
